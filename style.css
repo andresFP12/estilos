@@ -24,6 +24,13 @@ text-secundary{
 .width-100{
     width: 100px;
 }
-bg-info{
+.bg-info{
     background-color: #92d0e9;
+}
+.text-primary{
+    color: #06283D;
+
+}
+.text-white{
+    color: white;
 }
